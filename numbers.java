@@ -1,7 +1,7 @@
 public class numbers {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		System.out.println("Odd Numbers");
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter the n numbers:");	
@@ -34,5 +34,8 @@ public class numbers {
 	    	 System.out.println("Even number is "+array[i]);
 	    	}
 	    }
+        int 10,b=10;
+        int c=a+b;
+        System.out.println(c);
 	}
 }
