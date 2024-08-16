@@ -41,7 +41,7 @@ public class numbers {
         System.out.println(c);
         System.out.println(c);
 		c=a*b;
-		System.out.println(c);
+		System.out.println("multiplication "+c);
 
 	}
 }
