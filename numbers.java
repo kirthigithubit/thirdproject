@@ -36,6 +36,8 @@ public class numbers {
 	    }
         int 10,b=10;
         int c=a+b;
+        int c=a-b;
+        System.out.println(c);
         System.out.println(c);
 	}
 }
