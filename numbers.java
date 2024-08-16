@@ -13,7 +13,7 @@ public class numbers {
 	    }
 	    for(int i=0;i<no;i++)
 	    {
-	    	if(a[i]%3==0)
+	    	if(a[i]%7==0)
 	    	{
 	    	 System.out.println("Odd number is "+a[i]);
 	    	}
@@ -29,7 +29,7 @@ public class numbers {
 	    }
 	    for(int i=0;i<n;i++)
 	    {
-	    	if(array[i]%4==0)
+	    	if(array[i]%2==0)
 	    	{
 	    	 System.out.println("Even number is "+array[i]);
 	    	}
