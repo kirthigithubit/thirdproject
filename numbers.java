@@ -34,5 +34,7 @@ public class numbers {
 	    	 System.out.println("Even number is "+array[i]);
 	    	}
 	    }
+		c=a*b;
+		System.out.println(c);
 	}
 }
